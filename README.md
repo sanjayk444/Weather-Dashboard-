@@ -2,7 +2,7 @@
 
 A simple web app that fetches and displays current weather information using the OpenWeatherMap API. Built using HTML, CSS, and JavaScript.
 
-![screenshot](<img width="1920" height="977" alt="Image" src="https://github.com/user-attachments/assets/1e8f8902-8adc-4fcc-90f8-336d4b10233c" />)
+![screenshot](https://github.com/sanjayk444/Weather-Dashboard-/blob/fe310d9aff8c00418543b78154766603cfd3d49e/Screenshot%202025-07-17%20130843.png)
 
 ---
 
