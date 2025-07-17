@@ -8,7 +8,7 @@ A simple web app that fetches and displays current weather information using the
 
 ## 🔗 Live Demo
 
-[Click here to view the live site](file:///C:/Users/tnsan/Desktop/weather%20dashboard/index.html)
+[Click here to view the live site](http://file:///C:/Users/tnsan/Desktop/weather%20dashboard/index.html)
 
 ---
 
